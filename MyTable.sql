@@ -1,0 +1,2 @@
+CREATE TABLE MyTable(Id INT);
+GO

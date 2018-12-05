@@ -1,0 +1,9 @@
+CREATE PROC Select_MyTable
+AS
+BEGIN
+
+SELECT TOP 1 * FROM MyTable;
+
+SELECT @@IDENTITY;
+
+END
